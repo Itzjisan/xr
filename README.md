@@ -1,4 +1,4 @@
-# Follow Those Steps To Run My Paid Tool -->
+# Follow Those Steps To Run My Tool -->
 
 ## Installation :
 
